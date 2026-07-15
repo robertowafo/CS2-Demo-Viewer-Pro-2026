@@ -1,0 +1,6 @@
+mouse
+cffi
+keyboard
+opencv-python
+numpy
+colorama
